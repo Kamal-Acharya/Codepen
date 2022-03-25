@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Codepen/static/css/main.6274fda1.css",
+    "main.js": "/Codepen/static/js/main.10dc1888.js",
+    "static/js/787.57c64bdc.chunk.js": "/Codepen/static/js/787.57c64bdc.chunk.js",
+    "static/media/logo.png": "/Codepen/static/media/logo.dd472431beea4b559140.png",
+    "index.html": "/Codepen/index.html",
+    "main.6274fda1.css.map": "/Codepen/static/css/main.6274fda1.css.map",
+    "main.10dc1888.js.map": "/Codepen/static/js/main.10dc1888.js.map",
+    "787.57c64bdc.chunk.js.map": "/Codepen/static/js/787.57c64bdc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6274fda1.css",
+    "static/js/main.10dc1888.js"
+  ]
+}
